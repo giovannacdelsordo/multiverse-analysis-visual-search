@@ -27,10 +27,11 @@ Four curves are provided, one per analysis: reaction time and accuracy, each spl
 
 The specification curves are best viewed in a web browser:
 
-- Reaction time, target-absent trials
-- Reaction time, target-present trials
-- Accuracy, target-absent trials
-- Accuracy, target-present trials
+- [Reaction time, target-absent trials](https://giovannacdelsordo.github.io/multiverse-analysis-visual-search/multiverse_RT_ABSENT.html)
+- [Reaction time, target-present trials](https://giovannacdelsordo.github.io/multiverse-analysis-visual-search/multiverse_RT_PRESENT.html)
+- [Accuracy, target-absent trials](https://giovannacdelsordo.github.io/multiverse-analysis-visual-search/multiverse_Accuracy_ABSENT.html)
+- [Accuracy, target-present trials](https://giovannacdelsordo.github.io/multiverse-analysis-visual-search/multiverse_Accuracy_PRESENT.html)
+
 
 
 Hover over a point to get its associated cleaning decisions.
