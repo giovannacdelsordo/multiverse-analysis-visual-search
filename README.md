@@ -15,12 +15,7 @@ Each specification corresponds to one combination of data-cleaning decisions app
 
 **Contents**
 
-Four interactive specification curves are provided, corresponding to two outcomes crossed with two trial types:
-
-Reaction time, target-absent trials 
-Reaction time, target-present trials
-Accuracy, target-absent trials 
-Accuracy, target-present trials
+Four interactive specification curves are provided, corresponding to two outcomes (RT and accuracy) crossed with two trial types (target-absent and target-present trials). 
 
 Each plot shows the result of the similarity effect estimated across every universe in the multiverse — one point per data-cleaning specification. Points are sorted left to right by effect size (partial η²), so the curve traces how the estimated effect grows across the specification space. The vertical axis is the effect size; hovering over any point reveals that universe's exact partial η², p-value, retained sample size, and the specific level chosen for all eight (RT) or four (accuracy) cleaning decisions.
 
@@ -32,10 +27,10 @@ Four curves are provided, one per analysis: reaction time and accuracy, each spl
 
 The specification curves are best viewed in a web browser:
 
-Reaction time, target-absent trials
-Reaction time, target-present trials
-Accuracy, target-absent trials
-Accuracy, target-present trials
+- Reaction time, target-absent trials
+- Reaction time, target-present trials
+- Accuracy, target-absent trials
+- Accuracy, target-present trials
 
 
 Hover over a point to get its associated cleaning decisions.
